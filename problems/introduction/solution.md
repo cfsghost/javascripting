@@ -1,21 +1,19 @@
 ---
 
-# YOU DID IT!
+# 你做到了！
 
-Anything between the parentheses of `console.log()` are printed to the terminal.
+所有在 `console.log()` 中間的東西都會被列印顯示在終端機畫面中。
 
-So this: 
+所以，下面程式碼：
 
 ```js
 console.log('hello');
 ```
 
-prints `hello` to the terminal.
+將會把 `hello` 字串印在終端機上，是一個由多個字元所組成的**字串（String）**。
 
-Currently we are printing a **string** of characters to the terminal: `hello`.
+緊接著下一個挑戰中，我們將開始學習什麼是**字串（String）**。
 
-In the next challenge we focus on learning about **strings**.
-
-Run `javascripting` in the console to choose the next challenge.
+請於終端機中再執行一次命令 `javascripting` 去選擇並開始下一個挑戰練習吧。
 
 ---

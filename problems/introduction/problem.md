@@ -1,25 +1,23 @@
 ---
-# INTRODUCTION
+# 入門
 
-Create a folder for this workshop. 
+首先，先為這個 Workshop 建立一個目錄。
 
-Run this command, renaming the folder or changing the path however you need:
+在終端機中執行下面的命令，或是你可以用任何其他方式建立目錄：
 
 `mkdir javascripting`
 
-Change directory into the `javascripting` folder:
+切換到這個 `javascripting` 目錄之下：
 
 `cd javascripting`
 
-Create a file named `introduction.js`.
-
-Add this text to the file:
+然後，建立一個檔案，並命名為 `introduction.js`。並在這檔案中寫入下列程式碼內容：
 
 ```js
 console.log('hello');
 ```
-  
-Check to see if your program is correct by running this command:
+ 
+最後，你可以用下列命令檢查你的程式執行結果是否正確：
 
 `javascripting verify introduction.js`
 
