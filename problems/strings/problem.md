@@ -2,27 +2,16 @@
 
 # STRINGS
 
-A **string** is any value surrounded by quotes.
-
-It can be single or double quotes:
-
-```js
+字串是一個被包括在引號的值。可以是單引號或雙引號：
 'this is a string'
-
 "this is also a string"
-```
 
-Try to stay consistent. In this workshop we'll only use single quotes.
+在此先講好，在此教程中我們都將只使用單引號。此挑戰中，建立一個名為 string.js的檔案。在其中創建一個叫 someString的變數，例如：
 
-For this challenge, create a file named `strings.js`.
+var someString = 'this is a string'
 
-In that file create a variable named `someString` like this:
 
-```js
-var someString = 'this is a string';
-```
-
-Use `console.log` to print the variable **someString** to the terminal.
+使用console.log來印出變數
 
 Check to see if your program is correct by running this command:
 
