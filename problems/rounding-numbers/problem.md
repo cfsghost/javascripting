@@ -2,29 +2,17 @@
 
 # ROUNDING NUMBERS
 
-We can do basic math using familiar operators like `+`, `-`, `*`, `/`, and `%`.
+我可以使用 +, -, *,  /, % ，來做一些基礎的數學運算。
+但如果是更複雜的運算，我們可以使用 Math 物件。
+在此挑戰中，我們將使用 Math 物件來四捨五入數值。
 
-For more complex math, we can use the `Math` object.
+挑戰：
+建立一個檔案名為 rounding-number.js。定義一個名為 roundUp 的變數，設定其小數 1.5。我們將使用 Math.round() 方法來處理數值。一個範例使用 Math.round()：
 
-In this challenge we'll use the `Math` object to round numbers.
-
-## The challenge:
-
-Create a file named rounding-numbers.js.
-
-In that file define a variable named `roundUp` that references the float `1.5`.
-
-We will use the `Math.round()` method to round the number up.
-
-An example of using `Math.round()`:
-
-```js
 Math.round(0.5);
-```
 
-Define a second variable named `rounded` that references the output of the `Math.round()` method, passing in the `roundUp` variable as the argument.
 
-Use `console.log()` to print that number to the terminal.
+定義第二個名為 rounded 的變數，輸出以roundUp為參數 Math.round() 執行後的值。
 
 Check to see if your program is correct by running this command:
 
