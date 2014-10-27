@@ -2,16 +2,10 @@
 
 # NUMBERS
 
-Numbers can be integers, like `2`, `14`, or `4353`, or they can be decimals,  
-also known as floats, like `3.14`, `1.5`, or '100.7893423'.
+數值可以是整數，像是 2, 4 或 4353。或者也可以是小數，像是 3.14, 1.5 或 ‘’100.7893423。
 
-## The challenge:
-
-Create a file named numbers.js.
-
-In that file define a variable named `example` that references the integer `123456789`.
-
-Use `console.log()` to print that number to the terminal.
+挑戰：
+建立一個檔案名為 number.js。定義一個名為 example 的變數，設定一個整數 123456789。使用 console.log() 來印出最後結果。
 
 Check to see if your program is correct by running this command:
 
