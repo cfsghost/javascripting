@@ -1,11 +1,11 @@
 ---
 
-# YOU CREATED A VARIABLE!
+# 你成功建立了一個變數！
 
-Nice work. 
+做得好！
 
-In the next challenge we will look at strings more closely.
+下一個挑戰練習，我們將學習字串（String）的更多知識。
 
-Run `javascripting` in the console to choose the next challenge.
+在終端機執行 `javascripting-zh-tw` ，然後選擇並進行下一個挑戰吧！
 
 ---
