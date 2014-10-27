@@ -2,26 +2,18 @@
 
 # STRING LENGTH
 
-You will often need to know how many characters are in a string.
+你將常會需要知道有多少個字符在字串中，因此你將需要使用 .length 屬性。以下範例：
 
-For this you will use thing `.length` property. Here's an example:
+var example = 'example string'
 
-```js
-var example = 'example string';
+
 example.length
-```
 
-Make sure there is a period between `example` and `length`.
 
-The above code will return a **number** for the total number of characters in the string.
-
-Create a file named string-length.js.
-
-In that file, create a variable named `example`.
-
-**Make the `example` variable reference the string `example string`.**
-
-Use `console.log` to print the **length** of the string to the terminal.
+確認一下，example和 length 之間點符號。以上的程式碼將會回傳字串中總字符的數量。
+建立一個檔案名為 string-length.js，在此檔案中創建一變數，名為example。
+指定變數example一個字串 example string。
+使用console.log來印出字串的長度
 
 **Check to see if your program is correct by running this command:**
 
