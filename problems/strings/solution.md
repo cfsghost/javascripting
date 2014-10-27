@@ -1,11 +1,11 @@
 ---
 
-# SUCCESS.
+# 成功！
 
-You are getting used to this string stuff!
+你已經開始懂得如何使用字串了！
 
-In the next challenges we will cover how to manipulate strings.
+下一個挑戰練習，我們將學習如何對字串（String）進行各種操作。
 
-Run `javascripting` in the console to choose the next challenge.
+在終端機執行 `javascripting-zh-tw` ，然後選擇並進行下一個挑戰吧！
 
 ---
