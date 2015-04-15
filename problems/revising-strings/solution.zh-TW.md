@@ -1,11 +1,11 @@
 ---
 
-# YES, PIZZA _IS_ WONDERFUL.
+# 是的，披薩 _是_ 美妙的！
 
-Well done, with that `.replace()` method!
+`.replace()` 方法用的好！
 
-Next we will explore **numbers**.
+接下來我們將會探索 **數字（number）**
 
-Run `javascripting` in the console to choose the next challenge.
+請在終端機中執行 `javascripting` 以選擇下一個挑戰。
 
 ---

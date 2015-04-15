@@ -1,12 +1,12 @@
 ---
 
-# REVISING STRINGS
+# 倒轉字串
 
-You will often need to change the contents of a string. 
+你將常常需要改變字串的內容。
 
-Strings have built-in functionality that allow you to inspect and manipulate their contents.
+字串內建了檢查和處理字串內容的功能。
 
-Here is an example using the `.replace()` method:
+這裡是一個使用 `.replace()` 方法的範例：
 
 ```js
 var example = 'this example exists';
@@ -14,21 +14,19 @@ example = example.replace('exists', 'is awesome');
 console.log(example);
 ```
 
-Note that to change the value that the `example` variable references, we need  
-to use the equals sign again, this time with the `example.replace()` method to  
-the right of the equals sign.
+注意，要改變原本賦予 `example` 變數的內容，我們要再一次使用等號，這次在等號右邊放上 `example.replace()` 方法。
 
-## The challenge:
+## 作業：
 
-Create a file named `revising-strings.js`.
+建立一個名為 `revising-strings.js` 的檔案。
 
-Define a variable named `pizza` that references this string: `pizza is alright`.
+定義一個名為 `pizza` 的變數，並且賦予這個變數一個字串：`pizza is alright`。
 
-Use the `.replace()` method to change `alright` to `wonderful`.
+使用 `.replace()` 方法把字串裡的 `alright` 換成 `wonderful`。
 
-Use `console.log()` to print the results of the `.replace()` method to the terminal.
+使用 `console.log()` 把 `.replace()` 方法的結果顯示在終端機。
 
-Check to see if your program is correct by running this command:
+執行下面的命令，測試你的程式是不是正確地執行：
 
 `javascripting verify revising-strings.js`
 

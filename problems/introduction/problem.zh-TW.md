@@ -1,7 +1,7 @@
 ---
 # 介紹
 
-請先為這個練習建立一個資料夾。
+請先為這個挑戰建立一個資料夾。
 
 執行下面這個命令以建立資料夾，如果有需要，您也可以改變路徑：
 
@@ -25,5 +25,5 @@ console.log('hello');
 
 ---  
   
-> **需要幫助嗎？** 請閱讀這個練習的「README」檔案：github.com/sethvincent/javascripting
+> **需要幫助嗎？** 請閱讀這個挑戰的「README」檔案：github.com/sethvincent/javascripting
 
