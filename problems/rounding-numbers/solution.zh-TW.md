@@ -1,11 +1,11 @@
 ---
 
-# THAT NUMBER IS ROUNDED
+# 數值已經四捨五入了！
 
-Yep, you just rounded the number `1.5` to `2`. Good job.
+是的，你剛剛把數值 `1.5` 四捨五入成為 `2` 了，做的好。
 
-In the next challenge we will turn a number into a string.
+在下個挑戰中，我們將會把數值轉換為字串。
 
-Run `javascripting` in the console to choose the next challenge.
+請在終端機中執行 `javascripting` 以選擇下一個挑戰。
 
 ---
