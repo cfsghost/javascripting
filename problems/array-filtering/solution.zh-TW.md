@@ -1,11 +1,11 @@
 ---
 
-# FILTERED!
+# 過濾完了！
 
-Good job filtering that array.
+你已經過濾了陣列，做的好。
 
-In the next challenge we will work on an example of looping through arrays.
+在下一個挑戰，我們將會嘗試遍歷陣列的內容。
 
-Run `javascripting` in the console to choose the next challenge.
+請在終端機中執行 `javascripting` 以選擇下一個挑戰。
 
 ---

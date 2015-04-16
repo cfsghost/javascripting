@@ -1,14 +1,14 @@
 ---
 
-# ARRAY FILTERING
+# 過濾陣列
 
-There are many ways to manipulate arrays. 
+陣列有好幾種操作的方法。
 
-One common task is filtering arrays to only contain certain values.
+一個常用的功能是把陣列過濾到剩下指定的內容。
 
-For this we can use the `.filter()` method.
+我們可以用 `.filter()` 方法做到這個功能。
 
-Here is an example:
+這是一個例子：
 
 ```js
 var pets = ['cat', 'dog', 'elephant'];
@@ -18,21 +18,22 @@ var filtered = pets.filter(function (pet) {
 });
 ```
 
-The `filtered` variable will now only contain `cat` and `dog`.
+現在，變數 `filtered` 只含有 `cat` 和 `dog` 了。
 
-## The challenge:
+## 挑戰
 
-Create a file named `array-filtering.js`.
+建立一個名為 `array-filtering.js` 的檔案。
 
-In that file, define a variable named `numbers` that references this array:
+在這個檔案內，定義一個名為 `numbers` 的變數，並且賦予這個變數陣列：
+
 
 ```js
 [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 ```
 
-Like above, define a variable named `filtered` that references the result of `numbers.filter()`.
+像前面一樣，把 `numbers.filter()` 的結果賦予給變數 `filtered`。
 
-The function that you pass to the `.filter()` method will look something like this:
+傳給 `.filter()` 的函式應該看起來像這樣：
 
 ```js
 function evenNumbers (number) {
@@ -40,9 +41,9 @@ function evenNumbers (number) {
 }
 ```
 
-Use `console.log()` to print the `filtered` array to the terminal.
+使用 `console.log()` 把 `filtered` 陣列顯示到終端機。
 
-Check to see if your program is correct by running this command:
+執行下面的命令，測試你的程式是不是正確地執行：
 
 `javascripting verify array-filtering.js`
 

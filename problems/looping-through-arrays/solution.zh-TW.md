@@ -1,11 +1,11 @@
 ---
 
-# SUCCESS! LOTS OF PETS!
+# 成功了！一堆寵物！
 
-Now all the items in that `pets` array are plural!
+現在 `pets` 陣列裡的所有元素都是複數型態了！
 
-In the next challenge we will move from arrays to working with **objects**.
+在下個挑戰中，我們將會把焦點從陣列移到 **物件**。
 
-Run `javascripting` in the console to choose the next challenge.
+請在終端機中執行 `javascripting` 以選擇下一個挑戰。
 
 ---

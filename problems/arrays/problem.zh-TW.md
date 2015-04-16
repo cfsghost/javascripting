@@ -1,22 +1,19 @@
 ---
 
-# ARRAYS
+# 陣列
 
-An array is a list of values. Here's an example:
+一列的數值，就是陣列。這裡是個例子：
 
 ```js
 var pets = ['cat', 'dog', 'rat'];
 ```
 
-### The challenge:
+### 挑戰
 
-Create a file named `arrays.js`.
+建立一個名為 `arrays.js` 的檔案。
 
-In that file define a variable named `pizzaToppings` that references an array that contains three strings in this order: `tomato sauce, cheese, pepperoni`.
+在這個檔案中，定義一個名為 `pizzaToppings` 的變數，並賦予這個變數一個包含三個字串的陣列。字串的順序如下：`tomato sauce, cheese, pepperoni`。
 
-Use `console.log()` to print the `pizzaToppings` array to the terminal.
-
-Check to see if your program is correct by running this command:
 
 `javascripting verify arrays.js`
 

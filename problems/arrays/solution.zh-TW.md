@@ -1,11 +1,11 @@
 ---
 
-# YAY, A PIZZA ARRAY!
+# 耶～一個披薩陣列！
 
-You successfully created an array!
+你成功的建立了一個陣列！
 
-In the next challenge we will explore filtering arrays.
+在下面的挑戰，我們將會探討如何過濾陣列內容。
 
-Run `javascripting` in the console to choose the next challenge.
+請在終端機中執行 `javascripting` 以選擇下一個挑戰。
 
 ---
