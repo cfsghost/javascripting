@@ -1,11 +1,11 @@
 ---
 
-# THE TOTAL IS 45
+# TOTAL 變數是 45
 
-That is a basic introduction to for loops, which are handy in a number of situations, particularly in combination with other data types like strings and arrays.
+這是 For 迴圈的基礎介紹，For 迴圈在一些情形，如組合數值、字串和陣列等其他資料類型時很好用。
 
-In the next challenge we'll start working with **arrays**.
+在下一個挑戰裡，我們將會開始處理 **陣列（arrays）**
 
-Run `javascripting` in the console to choose the next challenge.
+請在終端機中執行 `javascripting` 以選擇下一個挑戰。
 
 ---

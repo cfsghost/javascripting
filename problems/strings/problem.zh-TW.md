@@ -24,8 +24,6 @@ var someString = 'this is a string';
 
 使用 `console.log` 函式把變數 **someString** 顯示到終端機。
 
-Use `console.log` to print the variable **someString** to the terminal.
-
 執行下面的命令，測試你的程式是不是正確地執行：
 
 `javascripting verify strings.js`

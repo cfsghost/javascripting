@@ -1,19 +1,18 @@
 ---
 
-# NUMBERS
+# 數值
 
-Numbers can be integers, like `2`, `14`, or `4353`, or they can be decimals,  
-also known as floats, like `3.14`, `1.5`, or '100.7893423'.
+數值可以是整數，像 `2`、`14` 或是 `4353`，也可以是小數，或是浮點數，像 `3.14`、`1.5`、或是 `100.7893423`。
 
-## The challenge:
+## 挑戰：
 
-Create a file named numbers.js.
+建立一個名為 `numbers.js` 的檔案
 
-In that file define a variable named `example` that references the integer `123456789`.
+在這個檔案裡，定義一個名為 `example`、值為整數 `123456789` 的變數。
 
-Use `console.log()` to print that number to the terminal.
+使用 `console.log` 函式把數值顯示到終端機。
 
-Check to see if your program is correct by running this command:
+執行下面的命令，測試你的程式是不是正確地執行：
 
 `javascripting verify numbers.js`
 

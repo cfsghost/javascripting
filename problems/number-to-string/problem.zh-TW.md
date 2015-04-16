@@ -1,27 +1,27 @@
 ---
 
-# NUMBER TO STRING
+# 數值轉字串
 
-Sometimes you will need to turn a number into a string.
+有時候你需要把數值（number）轉換成字串（string）。
 
-In those instances you will use the `.toString()` method. Here's an example:
+在這種狀況下，你將需要使用 `.toString()` 方法，這裡是範例：
 
 ```js
 var n = 256;
 n.toString();
 ```
 
-## The challenge
+## 挑戰
 
-Create a file named `number-to-string.js`.
+建立一個名為 `number-to-string.js` 的檔案。
 
-In that file define a variable named `n` that references the number `128`;
+在這個檔案裡定義一個名為 `n` 的變數並賦予變數數值 `128`。
 
-Call the `.toString()` method on the `n` variable.
+對變數 `n` 呼叫 `.toString()` 方法。
 
-Use `console.log()` to print the results of the `.toString()` method to the terminal.
+使用 `console.log` 函式把 `.toString()` 的結果顯示到終端機。
 
-Check to see if your program is correct by running this command:
+執行下面的命令，測試你的程式是不是正確地執行：
 
 `javascripting verify number-to-string.js`
 

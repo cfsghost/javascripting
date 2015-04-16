@@ -1,11 +1,11 @@
 ---
 
-# THAT NUMBER IS NOW A STRING!
+# 數值現在是字串了！
 
-Excellent. Good work converting that number into a string.
+成功的把數值轉換成字串了，幹的好！
 
-In the next challenge we will take a look at **for loops**.
+在下一個挑戰裡，我們將會研究 **For 迴圈（for loop）**
 
-Run `javascripting` in the console to choose the next challenge.
+請在終端機中執行 `javascripting` 以選擇下一個挑戰。
 
 ---

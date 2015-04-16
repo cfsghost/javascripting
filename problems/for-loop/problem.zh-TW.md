@@ -1,8 +1,8 @@
 ---
 
-# FOR LOOPS
+# FOR 迴圈
 
-For loops look like this:
+For 迴圈看起來像這樣：
 
 ```js
 for (var i = 0; i < 10; i++) {
@@ -11,32 +11,33 @@ for (var i = 0; i < 10; i++) {
 }
 ```
 
-The variable `i` is used to track how many times the loop has run.
+變數 `i` 是用來追蹤這個迴圈跑了幾次。
 
-The statement `i < 10;` indicates the limit of the loop. 
-It will continue to loop if `i` is less than `10`.
+在迴圈的開始， `var i = 0;` 會建立一個名為 `i` 的變數，並賦予變數一個數值 `0`。
 
-The statement `i++` increases the variable `i` by 1 each loop.
+程式碼 `i < 10;` 指出迴圈的限制次數，如果 `i` 小於 `10` ，迴圈就會執行下去。
 
-## The challenge:
+程式碼 `i++` 將會在每次執行迴圈後替變數 `i` 加1。
 
-Create a file named for-loop.js.
+## 挑戰
 
-In that file define a variable named `total` and make it equal the number `0`.
+建立一個名為 `for-loop.js` 的檔案。
 
-Define a second variable named `limit` and make it equal the number `10`.
+在這個檔案中定義一個名為 `total` 的變數，並使這個變數等於數值 `0`。
 
-Create a for loop in 10 iterations. On each loop, add the number `i` to the `total` variable.
+定義第二個名為 `limit` 的變數，並賦予這個變數數值 `10`。
 
-You can use a statement like this one:
+建立一個迭代十次的 For 迴圈。每一次的迴圈中，把 `i` 的數值加上變數 `total`。
+
+你可以使用像這樣的程式碼：
 
 ```js
 total += i;
 ```
 
-After the for loop, use `console.log()` to print the `total` variable to the terminal.
+在 For 迴圈之後，使用 `console.log()` 把 `total` 變數的數值顯示到終端機。
 
-Check to see if your program is correct by running this command:
+執行下面的命令，測試你的程式是不是正確地執行：
 
 `javascripting verify for-loop.js`
 

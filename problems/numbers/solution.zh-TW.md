@@ -1,11 +1,11 @@
 ---
 
-# YEAH! NUMBERS!
+# 好耶～數值～～
 
-Cool, you successfully defined a variable as the number `123456789`.
+讚，你成功得為數值 `123456789` 定義了一個變數！
 
-In the next challenge we will look at manipulating numbers.
+在下一個挑戰，我們將會研究如何操作數值。
 
-Run `javascripting` in the console to choose the next challenge.
+請在終端機中執行 `javascripting` 以選擇下一個挑戰。
 
 ---
