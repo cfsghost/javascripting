@@ -33,15 +33,15 @@ javascripting
 
 ![javascripting screenshot](screenshot.png)
 
-您可以使用上和下的案件在選單中遊走，要選擇作業，就按下「Enter」。
+您可以使用上和下的案件在選單中遊走，要選擇挑戰，就按下「Enter」。
 
-## 在作業中需要幫助？
+## 在挑戰中需要幫助？
 
-請至 nodeschool/discussions 的 Repository 裡新增一個 Issue ，標題含有 `javascripting` 與你遇到問題的作業名稱： https://github.com/nodeschool/discussions
+請至 nodeschool/discussions 的 Repository 裡新增一個 Issue ，標題含有 `javascripting` 與你遇到問題的挑戰名稱： https://github.com/nodeschool/discussions
 
 ## 尚待完成:
 
-新增這些作業：
+新增這些挑戰：
 
 - "ACCESSING ARRAY VALUES（存取陣列數值）"
 - "OBJECT KEYS（物件鍵值）"
