@@ -1,8 +1,8 @@
 ---
 
-# 變數
+# 變數（variable）
 
-變數（Variable）是數值（Value）的參照（Reference），有點像給這個資料取一個好記憶的名稱。要定義一個變數可以使用關鍵字 `var`。
+變數（variable）是數值（value）的參照（reference），有點像給這個資料取一個好記憶的名稱。要定義一個變數可以使用關鍵字 `var`。
 
 這裡是個範例：
 

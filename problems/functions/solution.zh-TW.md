@@ -1,7 +1,7 @@
 ---
 
-# WOOO BANANAS
+# 喔～～是香蕉！
 
-You did it! You created a function that takes input, processes that input, and provides output.
+你做到了！你建立了一個會接收、處理輸入，並且提供輸出的函式！
 
 ---

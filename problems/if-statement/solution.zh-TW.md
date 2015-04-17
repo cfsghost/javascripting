@@ -1,9 +1,9 @@
 ---
 
-# CONDITIONAL MASTER
+# 狀態之王！
 
-You got it! The string `orange` has more than five characters.
+你做到了！字串 `orange` 的字元數量大於五。
 
-Run `javascripting` in the console to choose the next challenge.
+請在終端機中執行 `javascripting` 以選擇下一個挑戰。
 
 ---
