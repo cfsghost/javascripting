@@ -1,6 +1,6 @@
 ---
 
-# 字串
+# 字串（string）
 
 **字串（string）** 是任何以引號框起來的值。
 
@@ -22,7 +22,7 @@
 var someString = 'this is a string';
 ```
 
-使用 `console.log` 函式把變數 **someString** 顯示到終端機。
+使用 `console.log()` 函式把變數 **someString** 顯示到終端機。
 
 執行下面的命令，測試你的程式是不是正確地執行：
 

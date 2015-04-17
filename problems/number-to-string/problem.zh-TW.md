@@ -19,7 +19,7 @@ n.toString();
 
 對變數 `n` 呼叫 `.toString()` 方法。
 
-使用 `console.log` 函式把 `.toString()` 的結果顯示到終端機。
+使用 `console.log()` 函式把 `.toString()` 的結果顯示到終端機。
 
 執行下面的命令，測試你的程式是不是正確地執行：
 

@@ -16,7 +16,7 @@ console.log(example);
 
 注意，要改變原本賦予 `example` 變數的內容，我們要再一次使用等號，這次在等號右邊放上 `example.replace()` 方法。
 
-## 作業：
+## 挑戰：
 
 建立一個名為 `revising-strings.js` 的檔案。
 

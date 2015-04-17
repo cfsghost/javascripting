@@ -21,7 +21,7 @@ example.length
 
 **請賦予變數 `example` 的內容為字串 `example string` 。**
 
-使用 `console.log` 把字串的 **長度** 顯示到終端機。
+使用 `console.log()` 把字串的 **長度** 顯示到終端機。
 
 **執行下面的命令，測試你的程式是不是正確地執行：**
 
