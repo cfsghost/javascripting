@@ -21,7 +21,7 @@ In that file, create a variable named `example`.
 
 **Make the `example` variable reference the string `example string`.**
 
-Use `console.log` to print the **length** of the string to the terminal.
+Use `console.log()` to print the **length** of the string to the terminal.
 
 **Check to see if your program is correct by running this command:**
 
